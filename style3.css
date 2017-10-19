@@ -1,0 +1,7 @@
+body{background-color: green}
+
+#wrapper{background-color: green}
+
+#content{background-color: Blue; width: 200px;height: 200px;float: left;margin-left:100px }
+#content2{background-color:red;width: 200px;height: 200px;float: right;margin-right:100px}
+#content3{background-color:yellow;width: 200px;height: 200px; margin: 0 auto; clear: both;}
