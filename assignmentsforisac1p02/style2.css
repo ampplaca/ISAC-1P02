@@ -5,7 +5,8 @@ margin:0 auto;}
 
 #header{background-color: red; width: 700px;
 text-align: center; height: 50px;
-font-weight: bold;}
+font-weight: bold;
+padding-right: 10px}
 
 #nav{background-color: pink; float:left;width: 200px; height: 50px;font-weight: bold;}
 #nav2{background-color: orange; float: left; width: 500px; height: 50px;font-weight: bold;}
