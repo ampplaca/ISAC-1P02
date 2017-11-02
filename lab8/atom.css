@@ -1,0 +1,12 @@
+body{background-color: blue}
+
+
+.box1{border-style: solid;
+margin: 100px;
+height: 400px}
+
+.text{border: 3px dotted white}
+
+.yolo{height: 300px; width:500px;
+border: dashed 3px white;
+padding: 10px}

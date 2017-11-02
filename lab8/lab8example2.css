@@ -1,0 +1,15 @@
+.box1{border-style: dashed;margin: 10px:auto;
+padding-top: 300px;
+color:purple;
+text-align: center;}
+
+.tinytext{font-size: 10px;text-align: center;color: green
+}
+
+.lefttext{color: orange; text-align: left; font-size: 24px;}
+
+.text{color: red; vertical-align: 15px}
+
+.righttext{color: purple; font-size: 10px;text-align: right}
+
+.text2{color: yellow}
