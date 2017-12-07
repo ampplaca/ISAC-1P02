@@ -14,5 +14,7 @@ color: #0505F2}
 font-style: italic;
 }
 
-.relative{position: relative; left: 420px}
+.relative {position: relative; left: 420px}
 .moveleft{position: relative; left: 100px}
+
+.relative2{position: relative; left: 800px}
