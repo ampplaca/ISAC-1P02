@@ -1,0 +1,12 @@
+body{background-color: #6c6cf4}
+
+#wrapper{width: 1400px; height: 500px
+margin:0 auto;}
+
+#header{background-color: #A4A4F7; width: 1400px;
+text-align: center; height: 80px;
+color: #0505F2}
+
+#content {background-color: green;float:left;width: 1400px; height: 500px;color:white}
+
+#footer {background-color: blue; float:left;width: 1400px;height: 80px; clear: left; color: white;}
